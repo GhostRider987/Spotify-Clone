@@ -39,7 +39,7 @@ This project is a simple yet visually appealing **Spotify Clone** designed using
 
 ---
 
-### 💻 Demo Screenshot
+## 💻 Demo Screenshot
 
 ![Spotify Clone Demo](assets/Spotify-Screenshot.png)
 
