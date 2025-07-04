@@ -20,7 +20,7 @@ This project is a simple yet visually appealing **Spotify Clone** designed using
 
 - **HTML5**: Provides the structure and semantic elements of the webpage.
 - **CSS3**: Handles the layout, styling, responsiveness, and visual aesthetics.
-- **Font Awesome** *(Optional)*: For icons (if implemented in your project).
+- **Font Awesome**: For icons used throughout the web application.
 
 ---
 
@@ -57,4 +57,6 @@ This project is a simple yet visually appealing **Spotify Clone** designed using
 ## 🙏 Acknowledgements
 
 - Inspired by **Spotify** for design inspiration.
+- [Font Awesome](https://fontawesome.com/) - For icons used in the application.
+ 
 
